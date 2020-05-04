@@ -1,4 +1,4 @@
-![](https://raw.github.com/benarch/oci-cli/tree/master/common/oci-cli-02.jpg)
+![](https://raw.githubusercontent.com/benarch/oci-cli/master/common/oci-cli-02.jpg)
 
 Note: Content in the README is under development
         
