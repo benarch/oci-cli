@@ -57,6 +57,7 @@ that said, if i want to add your image be able to change from Intel based shape 
 > NOTE: the name of the shape is case sensitive.
 ```sh
 oci compute image-shape-compatibility-entry add --image-id ocid1.image.oc1.eu-frankfurt-1.aaaabc543677.hellow0rldh3rewearegenerating50metextforexamples1234556 --shape-name VM.Standard.E3.Flex
+
 ```
 &nbsp;
 &nbsp;
@@ -64,6 +65,7 @@ oci compute image-shape-compatibility-entry add --image-id ocid1.image.oc1.eu-fr
 &nbsp;
 &nbsp;
 &nbsp;
+
 A collegue (Avi), created a sample script that add's all the shapes to the image compatibility list.
 for that do the following:
 1. create a sample text file. you can call it "oci-shapes.txt" if you want.
