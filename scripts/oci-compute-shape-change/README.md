@@ -19,7 +19,7 @@ First, you need to take in mind the following considerations.
   instance and affects it's availability).
 
 
-  - In case your instance is not "production" and can be turned off, then create from your instance a custom image (take in mind that "Custom Image" creation suspsends the 
+- In case your instance is not "production" and can be turned off, then create from your instance a custom image (take in mind that "Custom Image" creation suspsends the 
   instance and affects it's availability).
 ----
 ### ::: Disclaimer :::
@@ -129,7 +129,6 @@ done
 
 
 **Good Luck!**
-----
 
 ![Alt text][id]
 
