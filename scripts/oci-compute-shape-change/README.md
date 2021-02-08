@@ -25,7 +25,7 @@ First, you need to take in mind the following considerations.
 Once you have your instance "custom image", copy it's OCID and access an OCI CLI (using your `oci cli` on your computer, or using [OCI CloudShell]) and run the following command:
 
 ```sh
-oci compute image-shape-compatibility-entry add --image-id "<image-id>" --shape-name "$shape"
+$ oci compute image-shape-compatibility-entry add --image-id "<image-id>" --shape-name "$shape"
 ```
 
 You need to replace the instance / object specific parameters to match your entities while executing the command.
@@ -47,7 +47,7 @@ that said, if i want to add your image be able to change from Intel based shape 
 &nbsp;
 > NOTE: the name of the shape is case sensitive.
 ```sh
-oci compute image-shape-compatibility-entry add --image-id ocid1.image.oc1.eu-frankfurt-1.aaaabc543677.hellow0rldh3rewearegenerating50metextforexamples1234556 --shape-name VM.Standard.E3.Flex
+$ oci compute image-shape-compatibility-entry add --image-id ocid1.image.oc1.eu-frankfurt-1.aaaabc543677.hellow0rldh3rewearegenerating50metextforexamples1234556 --shape-name VM.Standard.E3.Flex
 ```
 
 ----
