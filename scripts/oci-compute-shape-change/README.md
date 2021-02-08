@@ -105,7 +105,7 @@ while read shape; do
 oci compute image-shape-compatibility-entry add --image-id "<image-id>" --shape-name "$shape"
 done
 ```
-4. on a computer has OCI CLI installed, give permissions to this file (oci-compute-shape-list-add.sh) in order to be able to run it and execute the script.
+4. on a computer with OCI CLI installed, give permissions to this file (oci-compute-shape-list-add.sh) in order to be able to run it and execute the script.
 
 
 [//]: # (Links reference)
