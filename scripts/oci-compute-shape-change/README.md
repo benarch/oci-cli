@@ -66,7 +66,7 @@ oci compute image-shape-compatibility-entry add --image-id ocid1.image.oc1.eu-fr
 &nbsp;
 &nbsp;
 
-A collegue (Avi), created a sample script that add's all the shapes to the image compatibility list.
+A collegue (Avi Hirsh), created a sample script that add's all the shapes to the image compatibility list.
 for that do the following:
 1. create a sample text file. you can call it "oci-shapes.txt" if you want.
 2. add the following entries tot hat file (those are shape names using case sensitive):
