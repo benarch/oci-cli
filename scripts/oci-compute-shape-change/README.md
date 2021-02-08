@@ -121,7 +121,7 @@ done
 [//]: # (Links reference)
 
 
-   [OCI CLI]: <https://docs.oracle.com/en-us/iaas/Content/API/Concepts/cliconcepts.htm>
+   [OCI CLI]: <https://ocikb.com/oci-cli>
    [image-shape-compatibility-entry]: <https://docs.oracle.com/en-us/iaas/tools/oci-cli/2.21.0/oci_cli_docs/cmdref/compute/image-shape-compatibility-entry.html>
    [OCI CloudShell]: <https://ocikb.com/oci-cli>
 
