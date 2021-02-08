@@ -21,12 +21,13 @@ First, you need to take in mind the following considerations.
 
   - In case your instance is not "production" and can be turned off, then create from your instance a custom image (take in mind that "Custom Image" creation suspsends the 
   instance and affects it's availability).
-
+----
 ### ::: Disclaimer :::
 ###### This procedure is at your own risk!
 ###### It is not an Oracle's official procedure although it supports and using the OCI CLI.
 ###### Please backup your system before performing any changes and give yourself the ability to rollback.
 ###### Run this test on a standalone instance first before running it on your prodcution.
+----
 
 &nbsp;
 
