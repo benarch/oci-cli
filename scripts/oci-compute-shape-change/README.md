@@ -49,16 +49,19 @@ This command is allows the image to participate in larger shape types. this comm
 
 that said, if i want to add your image be able to change from Intel based shape to an AMD based and you get the error from the console then you can look at this example to achieve your goal.
 
- 
- 
+&nbsp;
+
 > Example:
 >  From "VM.Standard2.2" shape to "VM.Standard.E3.Flex"&nbsp;
 &nbsp;
 > NOTE: the name of the shape is case sensitive.
+
+&nbsp;
+
 ```sh
 oci compute image-shape-compatibility-entry add --image-id ocid1.image.oc1.eu-frankfurt-1.aaaabc543677.hellow0rldh3rewearegenerating50metextforexamples1234556 --shape-name VM.Standard.E3.Flex
-
 ```
+
 &nbsp;
 &nbsp;
 &nbsp;
